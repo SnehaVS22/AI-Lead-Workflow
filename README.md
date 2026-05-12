@@ -19,3 +19,6 @@ If Not Qualified
 
 Slack notifies the team
 Airtable marks lead as not qualified
+
+
+<img width="1368" height="771" alt="Screenshot 2026-05-12 230204" src="https://github.com/user-attachments/assets/04d1c7ac-a54e-48fd-a069-4cc318201487" />
