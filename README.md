@@ -1,8 +1,6 @@
 # AI-Lead-Workflow
 An AI-powered automation that imports leads, generates prospect summaries, sends personalized cold emails, and manages leads through a CRM dashboard.
 
-Tools Used
-ToolPurposeTallyLead capture formMake.comWorkflow automationGemini AIProspect summary & email generationGmailSending personalized emailsAirtableCRM database and dashboardSlackTeam notifications
 
 How It Works
 
