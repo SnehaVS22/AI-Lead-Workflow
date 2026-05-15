@@ -21,4 +21,11 @@ Slack notifies the team
 Airtable marks lead as not qualified
 
 
-<img width="1368" height="771" alt="Screenshot 2026-05-12 230204" src="https://github.com/user-attachments/assets/04d1c7ac-a54e-48fd-a069-4cc318201487" />
+Screenshots :
+
+1. Qualified
+   <img width="1722" height="777" alt="Screenshot 2026-05-15 233326" src="https://github.com/user-attachments/assets/7104fe28-76ef-4719-9970-052d6569dfff" />
+2. Not Qualified
+   <img width="1726" height="732" alt="Screenshot 2026-05-15 235442" src="https://github.com/user-attachments/assets/fde1a1e8-8b5e-4d58-b394-bfeff41a4d8b" />
+
+
